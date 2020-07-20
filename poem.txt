@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and Unicors
 
 Orange
 Yellow
@@ -6,5 +6,7 @@ Green
 Blue
 Indigo
 Violet
+
+A unicorn walks out into the meadow
 
 These are the colors
